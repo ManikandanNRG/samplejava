@@ -23,6 +23,12 @@
         <artifactId>maven-war-plugin</artifactId>
         <version>3.8.6</version>
       </plugin>
+      <metadata>
+      <groupId>maven</groupId>
+        <artifactId>maven-war-plugin</artifactId>
+        <version>1.6.3</version>
+      <versioning/>
+      </metadata>
     </plugins>
   </build>
 </project>
